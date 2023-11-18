@@ -1,3 +1,3 @@
 # research_NLP
 Research interest demonstration for NLP
-[Assignment](challenge.pdf)
+[ARK Undergraduate/Masters Demonstration of Research Interest - UW, Seattle](challenge.pdf)
